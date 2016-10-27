@@ -113,7 +113,6 @@
  */
 - (void)playerViewControllerDidStopPictureInPicture:(AVPlayerViewController *)playerViewController{
     NSLog(@"playerViewControllerDidStopPictureInPicture");
-
 }
 
 /*!
@@ -145,9 +144,6 @@
 
 /*
 存在疑问：
- 1、为什么没有执行代理的方法，是因为没有显示pip，但是存在一个问题：pip按钮都没有显示出来，该怎么办？
- 2、这个pip好像api里面显示只有ios系统上才会有的；
+ pip 的功能是在支持的设备上才会支持，eg：ipad air 2
  
-
-
 */
