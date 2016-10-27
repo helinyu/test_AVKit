@@ -526,6 +526,7 @@
 				DCEE8CD71DC0BD97001BDE76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DCEE8CD81DC0BD97001BDE76 /* Build configuration list for PBXNativeTarget "test_AVKitTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +535,7 @@
 				DCEE8CDA1DC0BD97001BDE76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DCEE8CDB1DC0BD97001BDE76 /* Build configuration list for PBXNativeTarget "test_AVKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +544,7 @@
 				DCEE8CDD1DC0BD97001BDE76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

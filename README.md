@@ -5,3 +5,4 @@ ios 9 之后增加了一个pip（picture in picture ）的视频播放功能(在
 
 问题：
 1、就是使用 这里显示测试AVPlayerViewController类显示视频的时候，但是没有显示一个按钮让我进入pip的装填；
+2、画中画之所以不显示在iphone上，那是因为要看设备时候支持；可以查看图片result_0.png 这张图片，是在ipad air 2 上显示的；
