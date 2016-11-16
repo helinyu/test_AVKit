@@ -9,3 +9,5 @@ ios 9 之后增加了一个pip（picture in picture ）的视频播放功能(在
 https://support.apple.com/zh-cn/HT201471 识别 iPad 机型
 
 支持情况：分屏功能只支持iPad Air2；画中画功能将只支持iPad Air, iPad Air2, iPad mini2, iPad mini3。
+
+????
